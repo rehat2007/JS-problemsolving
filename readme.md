@@ -1,3 +1,5 @@
+<h1 align="center">JavaScript Practice</h1>
+
 ## Tier 0 - easy questions
 
 1. Check if a Number is Even or Odd
