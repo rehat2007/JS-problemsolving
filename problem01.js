@@ -1,7 +1,8 @@
-// Check if a Number is Even or Odd
+// Question : Check if a Number is Even or Odd
 
+// Answer :
 function oddEvenChacker(input){
-   if(isNaN(input)===false && input > 0 && input !== null){
+   if( typeof input === "number" && input > 0 && input !== null){
       if(input % 2 === 0 ){
         return `${input} is an Even Number.`
       }
