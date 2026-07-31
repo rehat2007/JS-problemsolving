@@ -5,7 +5,7 @@
 1. Check if a Number is Even or Odd
 2. Sum of a Range of Numbers (1 to N)
 3. Factorial of a Number
-4. FizzBuzz (1 to N)
+4. FizzBuzz 
 5. Reverse a String
 6. Count Vowels in a String
 7. Check if a String is a Palindrome
