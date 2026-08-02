@@ -11,5 +11,5 @@ function revarseString(input) {
   return newArr.join('')
 }
 
-let result = revarseString("Rehat Islam Addit")
+let result = revarseString('Rehat Islam Addit')
 console.log(result);
