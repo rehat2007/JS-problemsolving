@@ -53,7 +53,7 @@ By completing these challenges, you will gain hands-on experience with:
 14. You are given an object containing information about a student.
 15. Return All Even Numbers, Then Their Sum
 
-## Tier 1 - questions
+## Tier 2 - questions
 16. Student Introduction
     Create a function that accepts:
 
