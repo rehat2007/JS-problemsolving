@@ -2,7 +2,6 @@
 // Display employee information using object destructuring.
 
 // Answer :
-
 const employeeCard = (employee) => {
     const { name, age, position, department, salary, email } = employee;
        return`\nName : ${name} ,
